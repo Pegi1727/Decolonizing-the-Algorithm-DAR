@@ -24,7 +24,8 @@ Interactional: Strategic negotiation through "Resisting Prompts."
 ‌
 ## 📜 Citation
 If you use this model or these instruments in your research, please cite:
-Merrikhi, P. (2026). Decolonizing the Algorithm: Epistemic Agency, Authorial Voice, and Critical AI Literacy in L2 Academic Writing.
+Merrikhi, P. (2026).  
+Decolonizing the Algorithm: Epistemic Agency, Authorial Voice, and Critical AI Literacy in L2 Academic Writing.
 ‌
 ## ✉️ Contact
-Dr. Pegah Merrikhi Deniz. qizi@gmail.com
+Dr. Pegah Merrikhi Deniz.qizi@gmail.com
