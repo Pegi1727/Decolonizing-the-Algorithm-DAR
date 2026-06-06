@@ -117,7 +117,6 @@ A concentric representation of how cognitive, discursive, and interactional laye
 ‌
 ---
 *Developed by dr. Pegah*
-
 ```mermaid
 flowchart TD
 ‌
@@ -132,8 +131,3 @@ E2[Think-Alouds]
 E3[Interviews]
 end```
 ‌
-E --> E1
-E --> E2
-E --> E3
-‌
-E1 & E2 & E3 --> F[[Mixed-Methods Integration]]
