@@ -27,6 +27,13 @@ E3 --> F
 ‌
 F --> G((AI as a Revisable Epistemic Resource))
 ‌
+%% Styling
+style A fill:#f9f,stroke:#333,stroke-width:2px
+style B fill:#f8cecc,stroke:#b85450
+style D fill:#fff2cc,stroke:#d6b656,stroke-width:4px,stroke-dasharray: 5 5
+style G fill:#dae8fc,stroke:#6c8ebf,stroke-width:2px
+‌
+‌
 %% Styling for better visualization
 style A fill:#f9f,stroke:#333,stroke-width:2px
 style B fill:#f8cecc,stroke:#b85450
