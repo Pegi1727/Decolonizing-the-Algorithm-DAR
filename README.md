@@ -119,13 +119,11 @@ A concentric representation of how cognitive, discursive, and interactional laye
 *Developed by dr. Pegah*
 ```mermaid
 flowchart TD
-‌
 A[Participants N=12] --> B[Pre-Test Writing Task]
 B --> C{DAR Intervention 4 Weeks}
 C --> D[Post-Test Writing Task]
 D --> E[Data Collection]
-‌
-subgraph Data [Sources]
+‌subgraph Data [Sources]
 E1[Interaction Logs]
 E2[Think-Alouds]
 E3[Interviews]
