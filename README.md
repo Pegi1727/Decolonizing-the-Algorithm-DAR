@@ -116,28 +116,43 @@ A concentric representation of how cognitive, discursive, and interactional laye
 - To provide a pedagogical roadmap for **Ethical & Responsible AI use**.
 ‌
 ---
-*Developed by dr. Pegah*
-
-```mermaid
-‌flowchart TD
+*Developed by dr Pegah Merrikhi*
+``` 
+## Research Design
+mermaid
+flowchart TD
+title[<b>Research Design</b>]
+‌
 A[Participants N=12] --> B[Pre-Test Writing Task]
 B --> C{DAR Intervention 4 Weeks}
 C --> D[Post-Test Writing Task]
-D --> E[Data Collection]
 ‌
-subgraph Data [Sources]
+D --> E[Data Collection Sources]
+‌
+subgraph Sources [Data Types]
 E1[Interaction Logs]
-E2[Think-Alouds]
+E2[Think-Aloud Protocols]
 E3[Interviews]
+E4[Written Products]
 end
 ‌
-E --> E1
-E --> E2
-E --> E3
+E --> E1 & E2 & E3 & E4
 ‌
-E1 & E2 & E3 --> F[[Mixed-Methods Integration]]
-``` 
-## Research Design
+E1 & E2 & E3 & E4 --> F[Analysis Phase]
+‌
+subgraph Methods [Methodology]
+F1[Quantitative: Wilcoxon Tests]
+F2[Qualitative: Thematic Analysis]
+end
+‌
+F --> F1 & F2
+‌
+F1 & F2 --> G[[Mixed-Methods Integration]]
+G --> H([Negotiated Epistemic Agency - NEA])
+‌
+style title fill:none,stroke:none,font-size:20px
+style H fill:#e1f5fe,stroke:#01579b,stroke-width:2px
+style C fill:#fff9c4,stroke:#fbc02d
 
 The study employed a sequential explanatory mixed-methods design involving 12 multilingual L2 writers.
 
