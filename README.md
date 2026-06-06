@@ -126,7 +126,6 @@ C --> D[Post-Test Writing Task]
 D --> E[Data Collection]
 ‌
 subgraph Data [Sources]
-
 E1[Interaction Logs]
 E2[Think-Alouds]
 E3[Interviews]
@@ -140,5 +139,6 @@ E1 & E2 & E3 --> F[[Mixed-Methods Integration]]
 ‌
 style C fill:#f9f,stroke:#333,stroke-width:2px
 style F fill:#bbf,stroke:#333,stroke-width:2px
-style A fill:#dfd```
+style A fill:#dfd
+```
 
