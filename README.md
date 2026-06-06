@@ -118,8 +118,7 @@ A concentric representation of how cognitive, discursive, and interactional laye
 ---
 *Developed by dr. Pegah*
 
-```mermaid 
-mermaid
+```mermaid
 flowchart TD
 ‌
 A[Participants N=12] --> B[Pre-Test Writing Task]
@@ -131,7 +130,7 @@ subgraph Data [Sources]
 E1[Interaction Logs]
 E2[Think-Alouds]
 E3[Interviews]
-end
+end```
 ‌
 E --> E1
 E --> E2
