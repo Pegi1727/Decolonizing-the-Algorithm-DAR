@@ -1,4 +1,5 @@
 
+![Research Design](Figures/dab89794-e63e-4e06-858f-1db4808a275e.png)
 # 🚀 Decolonizing the Algorithm: The DAR Model
 ‌
 This repository presents the **Decolonial AI-mediated Writing (DAR)** framework. 
@@ -118,6 +119,4 @@ A concentric representation of how cognitive, discursive, and interactional laye
 ---
 *Developed by dr Pegah Merrikhi*
 ``` 
-## Research Design 
 
-![Research Design](Figures/dab89794-e63e-4e06-858f-1db4808a275e.png)
