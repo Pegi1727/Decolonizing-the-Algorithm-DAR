@@ -14,6 +14,7 @@ B --> C3[Interactional Level: Minimal Prompting]
 C1 --> D[[DAR Pedagogical Intervention]]
 C2 --> D
 C3 --> D
+`C1 --> D`
 D --> E1[Cognitive Level: Epistemic Awareness]
 D --> E2[Discursive Level: Voice Reclamation]
 D --> E3[Interactional Level: Prompt Negotiation]
