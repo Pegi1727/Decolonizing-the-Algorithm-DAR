@@ -1,5 +1,17 @@
 
 ![Research Design](Figures/dab89794-e63e-4e06-858f-1db4808a275e.png)
+
+## Research Methodology
+‌
+This study employs a **Mixed-Methods Research Design** to investigate the impact of the DAR intervention over a 4-week period.
+‌
+### 🔍 Key Components:
+- **Intervention:** A 4-week DAR (Decolonizing the Algorithm) program.
+- **Data Sources:**
+- *Interaction Logs* & *Written Products* (Quantitative)
+- *Think-Aloud Protocols* & *Interviews* (Qualitative)
+- **Analysis:** Integration of Wilcoxon signed-rank tests for statistical significance and Thematic Analysis for qualitative insights.
+- **Goal:** To evaluate and foster **Negotiated Epistemic Agency (NEA)** among participants (N=12).
 # 🚀 Decolonizing the Algorithm: The DAR Model
 ‌
 This repository presents the **Decolonial AI-mediated Writing (DAR)** framework. 
