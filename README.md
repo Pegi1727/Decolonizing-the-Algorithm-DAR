@@ -4,7 +4,7 @@
 This repository presents the **Decolonial AI-mediated Writing (DAR)** framework. 
 The model below illustrates the transformative journey from *Epistemic Submission* to *Negotiated Epistemic Agency*
 
- mermaid 
+ ``` mermaid 
 flowchart TB
 A((AI as an Implicit Epistemic Authority))
 A --> B[Pre-DAR Orientation: Epistemic Submission]
@@ -25,7 +25,7 @@ F --> G((AI as a Revisable Epistemic Resource))
 style A fill:#f9f,stroke:#333
 style B fill:#f8cecc,stroke:#b85450
 style D fill:#fff2cc,stroke:#d6b656,stroke-width:4px
-style G fill:#dae8fc,stroke:#6c8ebf
+style G fill:#dae8fc,stroke:#6c8ebf```
 
 Decolonizing the Algorithm (DAR) Model
 Structuralository contains the supplementary materials, pedagogical protocols, and validation instruments for the study:
