@@ -6,7 +6,7 @@ The model below illustrates the transformative journey from *Epistemic Submissio
 
  ``` mermaid 
 flowchart TB
-A((AI as an Implicit Epistemic Authority))
+A ((AI as an Implicit Epistemic Authority))
 A --> B [Pre-DAR Orientation: Epistemic Submission]
 B --> C1 [Cognitive Level: Uncritical Trust]
 B --> C2 [Discursive Level: Diminished Voice]
