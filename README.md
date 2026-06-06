@@ -137,3 +137,16 @@ E --> E3
 ‌
 E1 & E2 & E3 --> F[[Mixed-Methods Integration]]
 ``` 
+## Research Design
+
+The study employed a sequential explanatory mixed-methods design involving 12 multilingual L2 writers.
+
+The procedure consisted of:
+
+1. Pre-intervention writing task
+2. Four-week DAR intervention
+3. Post-intervention writing task
+4. Collection of interaction logs, think-aloud protocols, interviews, and written products
+5. Quantitative and qualitative analyses
+6. Mixed-methods integration leading to the development of Negotiated Epistemic Agency (NEA)
+7. ![Research Design](figures/research_design.png)
