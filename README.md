@@ -118,11 +118,10 @@ A concentric representation of how cognitive, discursive, and interactional laye
 ---
 *Developed by dr Pegah Merrikhi*
 ``` 
-## Research Design
-mermaid
+## Research Design 
+
+```mermaid```
 flowchart TD
-title[<b>Research Design</b>]
-‌
 A[Participants N=12] --> B[Pre-Test Writing Task]
 B --> C{DAR Intervention 4 Weeks}
 C --> D[Post-Test Writing Task]
@@ -150,18 +149,5 @@ F --> F1 & F2
 F1 & F2 --> G[[Mixed-Methods Integration]]
 G --> H([Negotiated Epistemic Agency - NEA])
 ‌
-style title fill:none,stroke:none,font-size:20px
 style H fill:#e1f5fe,stroke:#01579b,stroke-width:2px
 style C fill:#fff9c4,stroke:#fbc02d
-
-The study employed a sequential explanatory mixed-methods design involving 12 multilingual L2 writers.
-
-The procedure consisted of:
-
-1. Pre-intervention writing task
-2. Four-week DAR intervention
-3. Post-intervention writing task
-4. Collection of interaction logs, think-aloud protocols, interviews, and written products
-5. Quantitative and qualitative analyses
-6. Mixed-methods integration leading to the development of Negotiated Epistemic Agency (NEA)
-7. ![Research Design](figures/research_design.png)
