@@ -1,4 +1,4 @@
-```markdown
+
 # Decolonizing the Algorithm (DAR)
 ‌
 ‌
