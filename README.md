@@ -3,8 +3,8 @@
 ‌
 This repository presents the **Decolonial AI-mediated Writing (DAR)** framework. 
 The model below illustrates the transformative journey from *Epistemic Submission* to *Negotiated Epistemic Agency*
- ```mermaid 
-flowchart TB
+ ` mermaid 
+ flowchart TB
 A((AI as an Implicit Epistemic Authority))
 A --> B[Pre-DAR Orientation:<br/>Epistemic Submission]
 B --> C1[Cognitive Level:<br/>Uncritical Trust in AI Output]
@@ -21,48 +21,15 @@ E2 --> F
 E3 --> F
 F --> G((AI as a Revisable Epistemic Resource))
 ‌
+%% Styling
 style A fill:#f9f,stroke:#333,stroke-width:2px
 style B fill:#f8cecc,stroke:#b85450
 style D fill:#fff2cc,stroke:#d6b656,stroke-width:4px,stroke-dasharray: 5 5
-style G fill:#dae8fc,stroke:#6c8ebf,stroke-width:2px ```
-# 🚀 Decolonizing the Algorithm: The DAR Model
-‌
-This project introduces the **Decolonial AI-mediated Writing (DAR)** framework, designed to empower L2 writers to reclaim their epistemic agency in the age of Generative AI.
-‌
----
-‌
-## 💎 The DAR Framework in Action
-‌
-### 1. The Transformation Process
-This figure illustrates the pedagogical shift from **Epistemic Submission** to **Epistemic Awareness** through Cognitive, Discursive, and Interactional levels.
-‌
-![DAR Process Model](./Figures/806848e8-2f75-4f9a-91fd-46e9bc10e2a9.png)
-‌
----
-‌
-### 2. Multi-layered Structural Model
-A representation of how sociocultural contexts, power equity, and authorial voice overlap to create a decolonial writing practice.
-‌
-![DAR Structural Model](./Figures/IMG_20260606_071233.jpg)
-‌
----
-‌
-## 🎯 Research Focus
-- Challenging the **epistemic submission** in AI-mediated writing.
-- Fostering **authorial voice** and sociocultural authenticity.
-- Promoting **Ethical & Responsible AI use** in L2 classrooms.
-‌
----
-*Developed by dr. Pegah*
- Decolonizing-the-Algorithm-DAR
-: > This repository hosts the DAR Model (Decolonial AI-mediated Writing), a tripartite intervention protocol designed to empower L2 writers against algorithmic flattening. It includes pedagogical instruments, evaluation rubrics (EAC &amp; AVR), and datasets for fostering critical AI literacy.
-markdown
-# Decolonizing the Algorithm (DAR) Model
-‌
-This repository contains the supplementary materials, pedagogical protocols, and validation instruments for the study:
-"Decolonizing the Algorithm: Epistemic Agency, Authorial Voice, and Critical AI Literacy in L2 Academic Writing" (2026).
-‌
-## 🚀 Overview
+style G fill:#dae8fc,stroke:#6c8ebf,stroke-width:2px ` 
+
+Decolonizing the Algorithm (DAR) Model
+Structuralository contains the supplementary materials, pedagogical protocols, and validation instruments for the study:
+"Decolonizing the Algorithm: Epistemic Agency, Authorial Voice, and Critical AI Literacy in L2 Academic Writing" (20Responsible� Overview
 The DAR Model is a transformative pedagogical framework designed to transition L2 writers from passive AI reliance (Epistemic Submission) to critical, agentic interaction (Negotiated Epistemic Agency).
 ‌
 ## 📂 Repository Structure
