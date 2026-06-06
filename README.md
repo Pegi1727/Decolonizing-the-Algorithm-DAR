@@ -1,7 +1,6 @@
 
 # Decolonizing the Algorithm (DAR)
 ‌
-‌
 ## 📝 Project Description
 This research investigates the development of Negotiated Epistemic Agency (NEA). It explores how learners transition from passive users to critical negotiators of knowledge while interacting with algorithmic systems.
 ‌
