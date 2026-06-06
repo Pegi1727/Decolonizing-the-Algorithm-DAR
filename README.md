@@ -130,5 +130,20 @@ A concentric representation of how cognitive, discursive, and interactional laye
 ‌
 ---
 *Developed by dr Pegah Merrikhi*
-``` 
+```
 
+## 📉 Research Flow
+‌
+The study follows this sequential workflow as illustrated in the Research Design:
+‌
+- **Step 1:** Participants (N=12) 👥
+- **Step 2:** Pre-Test 📝
+- **Step 3:** DAR Intervention ⚙️
+- **Step 4:** Post-Test 📊
+- **Step 5:** Data Collection 📂
+*   Interaction Logs
+*   Think-Alouds
+*   Interviews
+- **Step 6:** Quantitative + Qualitative Analysis 🔍
+- **Step 7:** Mixed-Methods Integration 🧩
+- **Step 8:** **Negotiated Epistemic Agency (NEA)** 🛡️
