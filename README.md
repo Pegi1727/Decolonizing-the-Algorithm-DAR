@@ -6,33 +6,26 @@ The model below illustrates the transformative journey from *Epistemic Submissio
 
  `mermaid
 flowchart TB
-‌
 A((AI as an Implicit Epistemic Authority))
-‌
 A --> B[Pre-DAR Orientation: Epistemic Submission]
-‌
 B --> C1[Cognitive Level: Uncritical Trust]
 B --> C2[Discursive Level: Diminished Voice]
 B --> C3[Interactional Level: Minimal Prompting]
-‌
 C1 --> D[[DAR Pedagogical Intervention]]
 C2 --> D
 C3 --> D
-‌
 D --> E1[Cognitive Level: Epistemic Awareness]
 D --> E2[Discursive Level: Voice Reclamation]
 D --> E3[Interactional Level: Prompt Negotiation]
-‌
 E1 --> F[Post-DAR Orientation: Negotiated Agency]
 E2 --> F
 E3 --> F
-‌
 F --> G((AI as a Revisable Epistemic Resource))
 ‌
 style A fill:#f9f,stroke:#333
 style B fill:#f8cecc,stroke:#b85450
 style D fill:#fff2cc,stroke:#d6b656,stroke-width:4px
-style G fill:#dae8fc,stroke:#6c8ebf` 
+style G fill:#dae8fc,stroke:#6c8ebf
 
 Decolonizing the Algorithm (DAR) Model
 Structuralository contains the supplementary materials, pedagogical protocols, and validation instruments for the study:
