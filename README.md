@@ -124,7 +124,6 @@ A[Participants N=12] --> B[Pre-Test Writing Task]
 B --> C{DAR Intervention 4 Weeks}
 C --> D[Post-Test Writing Task]
 D --> E[Data Collection]
-‌
 subgraph Data [Sources]
 E1[Interaction Logs]
 E2[Think-Alouds]
