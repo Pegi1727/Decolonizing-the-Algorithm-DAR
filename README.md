@@ -120,3 +120,4 @@ A concentric representation of how cognitive, discursive, and interactional laye
 ``` 
 ## Research Design 
 
+![Research Design](Figures/dab89794-e63e-4e06-858f-1db4808a275e.png)
