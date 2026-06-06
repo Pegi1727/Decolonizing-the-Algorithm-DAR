@@ -68,3 +68,32 @@ If you use this framework or the instruments in your research, please cite:
 ‌
 ---
 **Contact:** For collaborations or inquiries regarding the DAR Model, please contact Dr. Pegah Merrikhi through this GitHub profile.
+# 🚀 Decolonizing the Algorithm: DAR Framework
+‌
+This project introduces the **Decolonial AI-mediated Writing (DAR)** framework, designed to empower L2 writers to reclaim their epistemic agency in the age of Generative AI.
+‌
+---
+‌
+## 📊 Conceptual Frameworks
+‌
+### 1. The DAR Process Model
+This model illustrates the transformation from passive AI reliance to critical epistemic agency through three intervention levels.
+‌
+![DAR Process Model](./Figures/806848e8-2f75-4f9a-91fd-46e9bc10e2a9.png)
+‌
+---
+‌
+### 2. The Structural Dimensions of DAR
+A concentric representation of how cognitive, discursive, and interactional layers overlap to create a decolonial writing practice.
+‌
+![DAR Structural Model](./Figures/IMG_20260606_071233.jpg)
+‌
+---
+‌
+## 🎯 Research Objectives
+- To challenge the **epistemic submission** often found in AI-mediated writing.
+- To foster **authorial voice** and sociocultural authenticity.
+- To provide a pedagogical roadmap for **Ethical & Responsible AI use**.
+‌
+---
+*Developed by dr. Pegah*
