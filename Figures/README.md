@@ -1,4 +1,26 @@
+```markdown
+# Decolonizing the Algorithm (DAR)
+‌
+‌
+## 📝 Project Description
+This research investigates the development of Negotiated Epistemic Agency (NEA). It explores how learners transition from passive users to critical negotiators of knowledge while interacting with algorithmic systems.
+‌
+## 🔬 Research Methodology
+The study employs a Mixed-Methods Research Design to capture both statistical trends and deep qualitative insights:
+‌
 
+Preparation: Starts with 12 participants (N=12) and a Pre-Test to establish a baseline.
+Intervention: A 4-week DAR (Decolonizing the Algorithm) program.
+Evaluation: A Post-Test to measure development after the intervention.
+Data Triangulation:
+   💻 Interaction Logs: Quantitative tracking of behavior.
+   🧠 Think-Alouds: Real-time cognitive process mapping.
+*   🗣 Interviews: In-depth qualitative reflections.
+Synthesis: Quantitative + Qualitative Analysis integrated through Mixed-Methods Integration.
+‌
+## 🎯 Key Outcome
+- Negotiated Epistemic Agency (NEA): The main goal of this workflow is to foster learners' ability to negotiate their knowledge-building process in digital environments.
+```
 flowchart TB
 A((AI as an Implicit Epistemic Authority))
 ‌
