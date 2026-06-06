@@ -121,3 +121,33 @@ A concentric representation of how cognitive, discursive, and interactional laye
 ## Research Design 
 
 ```mermaid```
+flowchart TD
+A[Participants N=12] --> B[Pre-Test Writing Task]
+B --> C{DAR Intervention 4 Weeks}
+C --> D[Post-Test Writing Task]
+‌
+D --> E[Data Collection Sources]
+‌
+subgraph Sources [Data Types]
+E1[Interaction Logs]
+E2[Think-Aloud Protocols]
+E3[Interviews]
+E4[Written Products]
+end
+‌
+E --> E1 & E2 & E3 & E4
+‌
+E1 & E2 & E3 & E4 --> F[Analysis Phase]
+‌
+subgraph Methods [Methodology]
+F1[Quantitative: Wilcoxon Tests]
+F2[Qualitative: Thematic Analysis]
+end
+‌
+F --> F1 & F2
+‌
+F1 & F2 --> G[[Mixed-Methods Integration]]
+G --> H([Negotiated Epistemic Agency - NEA])
+‌
+style H fill:#e1f5fe,stroke:#01579b,stroke-width:2px
+style C fill:#fff9c4,stroke:#fbc02d
