@@ -8,7 +8,7 @@ The model below illustrates the transformative journey from *Epistemic Submissio
 flowchart TB
 
 `A((AI as an Implicit Epistemic Authority))`
-`A --> B [Pre-DAR Orientation...`
+A --> B [Pre-DAR Orientation...
 A --> B [Pre-DAR Orientation: Epistemic Submission]
 B --> C1 [Cognitive Level: Uncritical Trust]
 B --> C2 [Discursive Level: Diminished Voice]
