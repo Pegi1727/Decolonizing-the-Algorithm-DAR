@@ -1,4 +1,39 @@
-
+mermaid
+flowchart TB
+A((AI as an Implicit Epistemic Authority))
+‌
+A --> B[Pre-DAR Orientation:<br/>Epistemic Submission]
+‌
+B --> C1[Cognitive Level:<br/>Uncritical Trust in AI Output]
+B --> C2[Discursive Level:<br/>Diminished Authorial Voice]
+B --> C3[Interactional Level:<br/>Minimal Prompting and Low Rejection]
+‌
+C1 --> D[[DAR Pedagogical Intervention]]
+C2 --> D
+C3 --> D
+‌
+D --> E1[Cognitive Level:<br/>Epistemic Awareness and Evaluation]
+D --> E2[Discursive Level:<br/>Voice Reclamation and Rhetorical Control]
+D --> E3[Interactional Level:<br/>Prompt Negotiation and Selective Uptake]
+‌
+E1 --> F[Post-DAR Orientation:<br/>Negotiated Epistemic Agency]
+E2 --> F
+E3 --> F
+‌
+F --> G((AI as a Revisable Epistemic Resource))
+‌
+%% Styling for better visualization
+style A fill:#f9f,stroke:#333,stroke-width:2px
+style B fill:#f8cecc,stroke:#b85450
+style C1 fill:#f8cecc,stroke:#b85450
+style C2 fill:#f8cecc,stroke:#b85450
+style C3 fill:#f8cecc,stroke:#b85450
+style D fill:#fff2cc,stroke:#d6b656,stroke-width:4px,stroke-dasharray: 5 5
+style E1 fill:#d5e8d4,stroke:#82b366
+style E2 fill:#d5e8d4,stroke:#82b366
+style E3 fill:#d5e8d4,stroke:#82b366
+style F fill:#d5e8d4,stroke:#82b366
+style G fill:#dae8fc,stroke:#6c8ebf,stroke-width:2px
 # 🚀 Decolonizing the Algorithm: The DAR Model
 ‌
 This project introduces the **Decolonial AI-mediated Writing (DAR)** framework, designed to empower L2 writers to reclaim their epistemic agency in the age of Generative AI.
